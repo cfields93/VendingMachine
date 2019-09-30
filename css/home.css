@@ -1,0 +1,22 @@
+#left-content
+{
+    overflow-y: scroll;
+}
+body
+{
+    background-color: rgb(61, 61, 61);
+}
+h1{
+    color: white;
+}
+label{
+    color: white;
+}
+.card, button
+{
+    border-color:gray;
+}
+#change-label, #message-label, #money-label
+{
+    text-align: center
+}
